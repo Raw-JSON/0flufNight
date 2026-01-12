@@ -21,7 +21,7 @@ Anyone can get started in seconds:
 ---
 
 ## 📄 License
-This project is licensed under the **MIT License**. You are free to use, copy, modify, merge, publish, and distribute the software as long as the original copyright notice is included. It is provided "as is" without warranty of any kind.
+This project is licensed under the **MIT [License](LICENSE)**. You are free to use, copy, modify, merge, publish, and distribute the software as long as the original copyright notice is included. It is provided "as is" without warranty of any kind.
 
 ---
 
