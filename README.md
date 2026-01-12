@@ -1,21 +1,31 @@
 # 0flufNight 🌙
 
-**Minimalist Blue Light Filter for Chrome.** 0flufNight is a high-performance, no-nonsense browser extension designed to reduce eye strain. It applies a customizable amber overlay across all web pages without interfering with site functionality or performance.
+**0flufNight** is a high-performance browser extension designed to protect your eyes and improve sleep quality by filtering out harsh blue light. By applying a customizable, warm amber overlay to every website you visit, it makes late-night browsing significantly more comfortable and less disruptive to your natural sleep cycle.
+
+## 🚀 Why Use 0flufNight?
+- **Protect Your Vision:** Softens the sharp digital glare that causes eye fatigue, dryness, and headaches.
+- **Natural Sleep Support:** Blue light suppresses melatonin; this extension minimizes that spectrum to help you fall asleep faster after browsing.
+- **Seamless Interaction:** Uses advanced non-blocking technology so the filter never interferes with buttons, links, or scrolling.
+- **Instant Response:** Adjust the filter strength via the control panel and see updates across all tabs in real-time.
+- **Ultra-Efficient:** Built with pure JavaScript for zero battery drain and maximum browser speed.
+
+## 🛠 Easy Setup
+Anyone can get started in seconds:
+
+1. **Download** this project folder to your computer.
+2. **Open Extensions:** In Chrome, go to the address bar and type `chrome://extensions/`.
+3. **Developer Mode:** Flip the switch in the top-right corner to **ON**.
+4. **Load Extension:** Click **"Load unpacked"** and select this folder.
+5. **Ready:** The moon icon will appear in your toolbar—click it to adjust your light settings!
+
 ---
-## ✨ Features
-- **Amber Shift:** High-contrast blue light filtration.
-- **Dynamic Intensity:** Real-time slider control (0% to 80%).
-- **Flat Architecture:** Minimal file overhead for maximum speed.
-- **Click-Through Tech:** Uses `pointer-events: none` to ensure 100% compatibility with all websites.
-- **Persistent State:** Settings automatically sync across all open tabs and save for future sessions.
+
+## 📄 License
+This project is licensed under the **MIT License**. You are free to use, copy, modify, merge, publish, and distribute the software as long as the original copyright notice is included. It is provided "as is" without warranty of any kind.
+
 ---
-## 🛠 Installation (Developer Mode)
-1. **Open Extensions:** Go to `chrome://extensions/` in your browser.
-2. **Enable Developer Mode:** Toggle the switch in the top right corner.
-3. **Load Unpacked:** Click "Load unpacked" and select the `0flufNight` directory.
----
-## 🏗 Tech Stack
-- **Manifest V3** (Latest Chrome Extension Standard)
-- **Vanilla JavaScript** (ES6+)
-- **Chrome Storage API**
-- **CSS3 Variables**
+
+## 🤖 AI Development Transparency
+This project was architected and written by **Gemini (Google’s Large Language Model)** based on specific functional requirements. The entire codebase is optimized for the modern Manifest V3 standard to ensure long-term security, privacy, and performance.
+
+*Built with 💡 ideas and 🤖 Gemini magic.*
