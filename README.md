@@ -10,10 +10,9 @@
 - **Persistent State:** Settings automatically sync across all open tabs and save for future sessions.
 ---
 ## 🛠 Installation (Developer Mode)
-1. **Generate Icon:** Use your custom AI-generated image and save it as `icon128.png` in the root folder.
-2. **Open Extensions:** Go to `chrome://extensions/` in your browser.
-3. **Enable Developer Mode:** Toggle the switch in the top right corner.
-4. **Load Unpacked:** Click "Load unpacked" and select the `0flufNight` directory.
+1. **Open Extensions:** Go to `chrome://extensions/` in your browser.
+2. **Enable Developer Mode:** Toggle the switch in the top right corner.
+3. **Load Unpacked:** Click "Load unpacked" and select the `0flufNight` directory.
 ---
 ## 🏗 Tech Stack
 - **Manifest V3** (Latest Chrome Extension Standard)
