@@ -16,7 +16,7 @@ Anyone can get started in seconds:
 2. **Open Extensions:** In Chrome, go to the address bar and type `chrome://extensions/`.
 3. **Developer Mode:** Flip the switch in the top-right corner to **ON**.
 4. **Load Extension:** Click **"Load unpacked"** and select this folder.
-5. **Ready:** The moon icon will appear in your toolbar—click it to adjust your light settings!
+5. **Ready:** The moon icon will appear in your toolbar click it to adjust your light settings!
 
 ---
 
