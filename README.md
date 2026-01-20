@@ -1,6 +1,6 @@
 # 0flufNight 🌙
 
-**0flufNight** is a high-performance browser extension designed to protect your eyes and improve sleep quality by filtering out harsh blue light. By applying a customizable, warm amber overlay to every website you visit, it makes late-night browsing significantly more comfortable and less disruptive to your natural sleep cycle.
+> **0flufNight** is a high-performance browser extension designed to protect your eyes and improve sleep quality by filtering out harsh blue light. By applying a customizable, warm amber overlay to every website you visit, it makes late-night browsing significantly more comfortable and less disruptive to your natural sleep cycle.
 
 ## 🚀 Why Use 0flufNight?
 - **Protect Your Vision:** Softens the sharp digital glare that causes eye fatigue, dryness, and headaches.
@@ -21,11 +21,11 @@ Anyone can get started in seconds:
 ---
 
 ## 📄 License
-This project is licensed under the **MIT [License](LICENSE)**. You are free to use, copy, modify, merge, publish, and distribute the software as long as the original copyright notice is included. It is provided "as is" without warranty of any kind.
+MIT [License](LICENSE). Free to use and modify.
 
 ---
 
 ## 🤖 AI Development Transparency
-This project was architected and written by **Gemini (Google’s Large Language Model)** based on specific functional requirements. The entire codebase is optimized for the modern Manifest V3 standard to ensure long-term security, privacy, and performance.
+> This project was architected and written by **Gemini** based on specific functional requirements. The entire codebase is optimized for the modern Manifest V3 standard to ensure long-term security, privacy, and performance.
 
 *Built with 💡 ideas and 🤖 Gemini magic.*
