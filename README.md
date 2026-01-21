@@ -1,6 +1,6 @@
 # 0flufNight 🌙
 
-> **0flufNight** is a minimalist, high-performance browser extension designed for visual health and focus. Built under the **0fluf Protocol**, it prioritizes system efficiency and clean code over unnecessary bloat.
+> **0flufNight** is a minimalist, high-performance browser extension designed for visual health and focus. it prioritizes system efficiency and clean code over unnecessary bloat.
 ---
 ## ✨ Core Features
 - **GPU-Accelerated Amber Filter:** Uses SVG `feColorMatrix` technology to suppress blue light with zero CPU overhead.
