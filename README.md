@@ -14,13 +14,14 @@
 1. **Download** the repository source code (ZIP) and extract it.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode** (top-right toggle).
-4. Click **Load unpacked** and select the `0flufNight` folder.
+4. Click **Load unpacked**.
+5. **CRITICAL:** Navigate *inside* the extracted folder and select the **`0flufNight`** subfolder (the one containing `manifest.json`).
 ---
 ## 🔄 Easy Updates
-When a new version is released, the easiest way to update is to simply repeat the installation process:
-1. **Replace:** Delete the old `0flufNight` folder and put the new version in its place.
-2. **Reload:** Go back to `chrome://extensions/` and click the **circular arrow icon (Reload)** on the 0flufNight card.
-3. **Done:** Your extension is now updated with all your new settings intact.
+To update to a newer version, simply repeat the installation process:
+1. **Replace:** Delete your old local `0flufNight` folder and replace it with the new version.
+2. **Reload:** Go to `chrome://extensions/` and click the **circular arrow icon (Reload)** on the 0flufNight card.
+3. **Important:** Ensure you are always pointing Chrome to the specific `0flufNight` subfolder, not the main repository folder.
 ---
 ## 📄 License
 MIT [License](LICENSE). Free to use and modify.
